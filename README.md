@@ -1,6 +1,9 @@
 # Seorefooter-V2.0
 SEO Générateur Optimiser
 
+# DOWNLOAD :
+# https://www.avhiral.com/?page_id=3804
+
 🔹 Fonctionnalités principales
 
 ✅ Génération de JSON-LD : Structure de données optimisée pour Google afin d'améliorer le SEO.
