@@ -4,9 +4,13 @@ SEO Générateur Optimiser
 🔹 Fonctionnalités principales
 
 ✅ Génération de JSON-LD : Structure de données optimisée pour Google afin d'améliorer le SEO.
+
 ✅ Optimisation du référencement : Création d'un texte invisible optimisé contenant des mots-clés et zones géographiques.
+
 ✅ Ping automatique : Envoie directement votre sitemap à Google et Bing pour une indexation rapide.
+
 ✅ Intégration facile dans WordPress : Copiez simplement le code généré dans footer.php ou autre fichiers pour un SEO amélioré.
+
 ✅ Gratuit et sans restrictions : 100% freeware, aucune limite d'utilisation.
 
 🔹 Comment ça fonctionne ?1️⃣ Entrez vos informations :
