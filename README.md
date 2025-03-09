@@ -16,7 +16,9 @@ SEO Générateur Optimiser
 
 ✅ Gratuit et sans restrictions : 100% freeware, aucune limite d'utilisation.
 
-🔹 Comment ça fonctionne ?1️⃣ Entrez vos informations :
+🔹 Comment ça fonctionne ?
+
+1️⃣ Entrez vos informations :
 
 Nom de la société
 URL du site
